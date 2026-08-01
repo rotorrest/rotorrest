@@ -1,126 +1,217 @@
-## Hi, I'm Rodrigo 👋
+# Hi, I'm Rodrigo 👋
 
-Staff Technical Lead & Cloud Architect building high-scale backend systems, AI products, and cloud infrastructure.
+### Staff Technical Lead • Cloud Architect • AI Systems Engineer
+
+I build high-performance backend systems, AI products, and cloud infrastructure.
 
 Currently leading the architecture and AI initiatives behind one of Latin America's largest restaurant reservation platforms.
 
 ---
 
-## 🚀 What I do
+## 🚀 Highlights
 
-- 🏗️ Design distributed backend systems and scalable architectures
-- 🤖 Build production-ready AI agents and LLM-powered applications
-- ☁️ Architect cloud infrastructure on Google Cloud & AWS
-- ⚡ Optimize APIs, databases, and high-concurrency systems
-- 📊 Build large-scale data pipelines and web scraping infrastructure
-
----
-
-## 🏆 Recent Highlights
-
-- ⚡ Reduced API latency from **28s → <500ms**
+- ⚡ Reduced API latency **28s → <500ms**
 - 💰 Reduced Cloud SQL costs by **50%**
 - 🚀 Reduced database load by **90%**
-- 🤖 Built an AI reservation agent with **29% conversation-to-booking conversion**
-- 💸 Reduced LLM costs to **$0.01–0.03 per conversation**
-- 🍽️ Designed race-condition-free reservation algorithms for high-concurrency booking systems
+- 🤖 Built an AI reservation agent with **29% booking conversion**
+- 💸 Reduced LLM cost to **$0.01–0.03 per conversation**
+- 🍽️ Designed race-condition-free booking algorithms for high-concurrency systems
 
 ---
 
-## 🛠️ Core Technologies
+# 🛠 Core Technologies
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-007FF4?style=for-the-badge&labelColor=black&logo=Python&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
-<a href="https://go.dev/"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://go.dev/">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</a>
 
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 
-<a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</a>
 
-</p>
+</td>
+<td>
 
----
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
 
-## ☁️ Cloud & Infrastructure
+</td>
+<td>
 
-<p align="center">
+<a href="https://redis.io/">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
 
-<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&labelColor=black&logo=terraform&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=black"/></a>
-
-</p>
-
----
-
-## 🤖 AI Engineering
-
-<p align="center">
-
-<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&labelColor=black&logo=anthropic&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/-LangGraph-00A67E?style=for-the-badge&labelColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/-MCP-7C3AED?style=for-the-badge&labelColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/-RAG-16A34A?style=for-the-badge&labelColor=black"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Data Engineering
+# ☁️ Cloud & Infrastructure
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 
-<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/-BigQuery-669DF6?style=for-the-badge&labelColor=black&logo=googlebigquery&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
-<a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=white"/></a>
+</td>
+<td>
 
-</p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Observability
+# 🤖 AI Engineering
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://newrelic.com/"><img src="https://img.shields.io/badge/-New%20Relic-1CE783?style=for-the-badge&labelColor=black&logo=newrelic&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
-<a href="https://sentry.io/"><img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&labelColor=black&logo=sentry&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 
-<a href="https://opentelemetry.io/"><img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=for-the-badge&labelColor=black&logo=opentelemetry&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</p>
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/LangGraph-16A34A?style=for-the-badge"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's connect
+# 📊 Data Engineering
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://twitter.com/RoTorresT"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<a href="https://www.linkedin.com/in/rotorrest/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</td>
+<td>
 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Observability
+
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rotorrest">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/RoTorresT">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 </p>
