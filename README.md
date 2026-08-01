@@ -5,6 +5,7 @@
 I build high-performance backend systems, AI products, and cloud infrastructure.
 
 Currently leading the architecture and AI initiatives behind one of Latin America's largest restaurant reservation platforms.
+💍 My favorite collaborator: [Ale Valdez](https://github.com/Alexa404) — our biggest project is still in review. Merge pending.
 
 ---
 
